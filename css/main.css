@@ -355,4 +355,9 @@ section {
     z-index: 5;
   }
 }
+
+.right {
+  height: 600px;
+  width: 400px;
+}
 /*# sourceMappingURL=main.css.map */
