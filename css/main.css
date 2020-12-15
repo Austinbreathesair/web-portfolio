@@ -236,6 +236,9 @@ section {
   .nav-container header {
     background: #6700ee;
   }
+  .right {
+    padding-left: 15em;
+  }
   header {
     padding-top: 2em;
     padding-left: 2em;
