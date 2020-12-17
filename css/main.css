@@ -67,6 +67,10 @@ header ul a {
   padding: 4em;
 }
 
+.hero p {
+  font-weight: 14px;
+}
+
 .meet {
   display: -webkit-box;
   display: -ms-flexbox;
